@@ -1,3 +1,4 @@
+```
 Customer ID: cus_Ql8NhnPiqJJAzd
 Email: None
 No payment history found.
@@ -795,5 +796,6 @@ Email: None
 No payment history found.
 
 --------------------------------------------------
+```
 
-Total successful payments across all customers: $799.79
+# Total successful payments across all customers: $799.79
