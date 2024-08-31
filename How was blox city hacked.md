@@ -26,6 +26,13 @@ Using the SSH Keys, a bot accesse the GitHub organization, downloaded all the co
 
 The VPS was attacked as well, allowing the hackers free access to the entire project structure.
 
+VPS SSH Information:
+```
+143.244.144.4 ssh-ed25519 {redacted}
+143.244.144.4 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC10Gy63SgC8mH{redacted}
+```
+
+(Should no longer function)
 
 ### The refunds
 Hackers, using the now leaked Stripe API Key (which for some reason had FULL PERMISSIONS), started running refunds to all blox-city users with the API endpoint. A total of 1.3k USD was refunded without Kyle's  knowledge, oficially placing Kyle 'in debt'.
