@@ -1,5 +1,8 @@
 ![Anomia](banner_6.png)
 
+
+# ⚠ WARNING: IF you bought ANYTHING with real money on Blox City, Your Data has been leaked. Contact Your Bank or Merchant Immediately.
+
 # Blox City Data Leak
 ## By Goosey - Published by Anomia
 
