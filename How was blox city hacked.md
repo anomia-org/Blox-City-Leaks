@@ -16,12 +16,15 @@ The software used is called "Creal Stealer", which was modified for this use cas
 c/users/kyle/.ssh
 ```
 ![](https://media.discordapp.net/attachments/1279191268198711472/1279251221403926528/image.png?ex=66d3c30a&is=66d2718a&hm=d8e512025b2f58b3c64c82c9097c42470e7d3e99ec5026e2f0cd6afd3aa6334d&=&format=webp&quality=lossless&width=432&height=367)
+
 The hacker then used the SSH keys to access Blox City's VPS
 
 ### Leak
 Using the SSH Keys, a bot accesse the GitHub organization, downloaded all the content and sent it back.
 
-The VPS was penetrated as well, allowing the hackers free access to the entire project structure.
+![](https://media.discordapp.net/attachments/1124087949802348574/1279252926388244510/image.png?ex=66d3c4a1&is=66d27321&hm=2c92599fe7a81e6431ecb1bd95508f8e5b2f01b224cb10dc4b84b03271121b5f&=&format=webp&quality=lossless&width=660&height=546)
+
+The VPS was attacked as well, allowing the hackers free access to the entire project structure.
 
 ### Now what?
 This is an incredibly high level leak, and Kyle is already suffering the consequences of this. 
